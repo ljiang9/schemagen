@@ -1,0 +1,4 @@
+{"event": "page_view", "user_id": "u_10293", "ts": "2026-10-04T10:01:00Z", "url": "/pricing", "duration_ms": 1200}
+{"event": "click", "user_id": "u_10293", "ts": "2026-10-04T10:01:12Z", "url": "/pricing", "element": "cta-button"}
+{"event": "purchase", "user_id": "u_20481", "ts": "2026-10-04T10:05:44Z", "amount": 299.0, "currency": "CNY"}
+{"event": "page_view", "user_id": "u_33012", "ts": "2026-10-04T10:06:01Z", "url": "/docs", "duration_ms": 8400}
